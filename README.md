@@ -33,6 +33,7 @@ cd smart-web-agent-playwright
 ```
 *(Note: Replace `YOUR_USERNAME` with your actual GitHub username).*
 
+
 ### 2. Install Dependencies
 Install all required Python libraries specified in the `requirements.txt` file:
 ```bash

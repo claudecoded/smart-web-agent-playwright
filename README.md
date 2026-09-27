@@ -28,11 +28,9 @@ Follow these exact steps to set up the project locally on your machine.
 ### 1. Clone the Repository
 Open your terminal (or PowerShell/Command Prompt) and run:
 ```bash
-git clone https://github.com
+git clone https://github.com/claudecoded/smart-web-agent-playwright
 cd smart-web-agent-playwright
 ```
-*(Note: Replace `YOUR_USERNAME` with your actual GitHub username).*
-
 
 ### 2. Install Dependencies
 Install all required Python libraries specified in the `requirements.txt` file:
